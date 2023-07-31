@@ -1,2 +1,2 @@
-# sample-web
+# sample-web-boot
 sample
